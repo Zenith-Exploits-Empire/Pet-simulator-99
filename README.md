@@ -1,1 +1,1 @@
-All scripts workings
+All scripts currently workings
